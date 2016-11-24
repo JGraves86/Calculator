@@ -1,0 +1,10 @@
+\\classrooms.stlcc\files\student\mc\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\M1N3\Desktop\Homewrk\Calculator\Calculator\obj\Debug\Calculator.pdb
